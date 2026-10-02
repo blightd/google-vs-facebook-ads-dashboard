@@ -1,12 +1,18 @@
 # 📊 Google Ads vs. Facebook Ads Performance Dashboard
 
 An interactive Excel analytics dashboard comparing campaign performance metrics across Google Ads and Facebook Ads. This project analyzes campaign spend efficiency, audience engagement, and channel-specific conversion mechanics.
+---
 
+## 📷 Raw File Preview
+
+![Full Raw File Overview](Screenshrots/raw_data.png)
+
+---
 ---
 
 ## 📷 Dashboard Preview
 
-![Full Dashboard Overview](screenshots/full_dashboard_overview.png)
+![Full Dashboard Overview](Screenshrots/G-vs-F.png)
 
 ---
 
@@ -14,7 +20,7 @@ An interactive Excel analytics dashboard comparing campaign performance metrics 
 
 Below is the consolidated performance summary across both platforms:
 
-![KPI Summary Cards](screenshots/kpi_summary_cards.png)
+![KPI Summary Cards](Screenshrots/KPI-ss.png)
 
 | Metric | Calculated Value | Formula / Method |
 | :--- | :--- | :--- |
@@ -49,8 +55,3 @@ The raw dataset contains multi-channel marketing data with platform-specific fie
 * **Timeline Slicer:** Dynamically filter performance trends across custom date ranges.
 
 ---
-
-## 🛠️ How to Replicate / Use
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/google-vs-facebook-ads-dashboard.git](https://github.com/YOUR_USERNAME/google-vs-facebook-ads-dashboard.git)
