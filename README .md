@@ -45,7 +45,7 @@ The raw dataset contains multi-channel marketing data with platform-specific fie
 ## 📈 Dashboard Features & Analytics
 
 ### 1. Platform Efficiency Breakdown
-![Platform Comparison](screenshots/platform_comparison_chart.png)
+![Platform Comparison](Screenshrots/fcebook_mkt.png)
 * **Cost Per Click (CPC) vs. CPM Analysis:** Evaluates which platform delivers cheaper impression reach vs. higher click intent.
 * **Demographic Target Analysis:** Evaluates campaign spend distribution across age brackets (`18-24`, `25-34`, `35-44`, etc.).
 
