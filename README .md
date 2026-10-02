@@ -91,3 +91,37 @@ CPC (Cost Per Click)     = spends / clicks
 CTR (Click-Through Rate) = clicks / impressions
 CPM (Cost Per Mille)      = (spends / impressions) * 1000
 CPA (Cost Per Action)    = spends / link_clicks
+```
+
+
+
+---
+
+
+## 🎓  Guide
+
+Anyone can use this repository to practice Excel dashboarding! The repository provides both the raw dataset for self-practice and the completed solution for reference:
+
+* 📄 **`Data/Raw_File.xlsx`**: Raw campaign dataset containing uncleaned data across both platforms. Use this file to practice data cleaning, Create calculated measures (CPC, CTR, CPM, CPA), building Pivot Tables, and designing custom dashboard layouts from scratch.
+
+* 📊 **`Solution_final.xlsb.xlsx`**: The completed, interactive Excel dashboard featuring calculated fields, dynamic slicers, time-series charts, and dedicated analysis tabs. Use this as a reference solution.
+
+---
+
+## 📂 My Repository Architecture
+
+```text
+google-vs-facebook-ads-dashboard/
+├── Data/
+│   └── Raw_File.xlsx               <-- Raw dataset for hands-on practice
+├── screenshots/
+│   ├── KPI-ss.png                   <-- Executive KPI overview
+│   ├── G-vs-F.png                   <-- Platform comparison report
+│   ├── google_mkt.png               <-- Google Ads device deep dive
+│   └── fcebook_mkt.png              <-- Facebook Ads deep dive
+├── Solution_final.xlsb.xlsx       <-- Final reference solution dashboard
+└── README.md                        <-- Project documentation 
+```
+
+
+
